@@ -33,3 +33,12 @@ chmod +x "va_enablement_node_profile.sh"
 ```bash
 "./va_enablement_node_profile.sh"
 ```
+- Input parameters for TFCC and VPP RI use cases
+```bash
+"./va_enablement_node_profile.sh tfcc"
+"./va_enablement_node_profile.sh vpp"
+```
+- Execute it with --help/-h for checking the availability of any additional use case support
+```bash
+"./va_enablement_node_profile.sh -h"
+```
